@@ -1,6 +1,3 @@
-//CHAREF CAMELIA 21202057
-//BEN MIMOUN SARAH 28713241
-
 #include <assert.h>
 #include <stdio.h>
 #include <stdlib.h>
