@@ -1,5 +1,4 @@
-//CHAREF CAMELIA 21202057
-//BEN MIMOUN SARAH 28713241
+
 #include <assert.h>
 #include <unistd.h>
 #include <stdio.h>
